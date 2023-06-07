@@ -107,7 +107,7 @@ arXiv 2022. [[Paper](https://arxiv.org/pdf/2208.15001.pdf)] [[Project](https://m
 arXiv 2022. [[Paper](https://arxiv.org/pdf/2209.00349.pdf)]
 
 **Diffusion Motion: Generate Text-Guided 3D Human Motion by Diffusion Model** \
-*Zhiyuan Ren, Zhihong Pan, Xin Zhou, Le Kang*
+*Zhiyuan Ren, Zhihong Pan, Xin Zhou, Le Kang* \
 arXiv 2022. [[Paper](https://arxiv.org/pdf/2210.12315.pdf)]
 
 
@@ -117,7 +117,7 @@ CVPR 2023. [[Paper](https://arxiv.org/pdf/2212.04048.pdf)] [[Project](https://ch
 
 **InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions** \
 *Han Liang, Wenqian Zhang, Wenxuan Li, Jingyi Yu, Lan Xu* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2304.05684)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.05684)]
 
 **Human Motion Diffusion as a Generative Prior** \
 *Yonatan Shafir, Guy Tevet, Roy Kapon, Amit H. Bermano* \
@@ -170,3 +170,8 @@ arXiv 2022. [[Paper](https://arxiv.org/pdf/2211.14304.pdf)] [[Project](https://b
 **HumanMAC: Masked Motion Completion for Human Motion Prediction** \
 *Ling-Hao Chen, Jiawei Zhang, Yewen Li, Yiren Pang, Xiaobo Xia, Tongliang Liu* \
 arXiv 2023. [[Paper](https://arxiv.org/pdf/2302.03665.pdf)] [[Project](https://lhchen.top/Human-MAC/)] [[Code](https://github.com/LinghaoChan/HumanMAC)]
+
+**Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model** \
+*Yuming Du, Robin Kips, Albert Pumarola, Sebastian Starke, Ali Thabet, Artsiom Sanakoyeu* \
+CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Avatars_Grow_Legs_Generating_Smooth_Human_Motion_From_Sparse_Tracking_CVPR_2023_paper.pdf)] [[Project](https://dulucas.github.io/agrol/)] [[Code](https://github.com/facebookresearch/AGRoL)]
+
